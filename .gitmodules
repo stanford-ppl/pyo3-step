@@ -1,0 +1,6 @@
+[submodule "Hop"]
+	path = Hop
+	url = git@github.com:stanford-ppl/Hop.git
+[submodule "DAM-RS"]
+	path = DAM-RS
+	url = https://github.com/stanford-ppl/DAM-RS.git
